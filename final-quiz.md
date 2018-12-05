@@ -106,7 +106,7 @@ a. Have small interfaces
 
 b. Maintain loose coupling
 
-c. Extend behavior with new use cases without touchin old ones
+c. Extend behavior with new use cases without touching old ones
 
 d. Maintain loose dependencies
 
